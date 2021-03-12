@@ -10,7 +10,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "highcharts-export-server": "^2.0.28",
+    "highcharts-export-server": "^2.1.0",
     "lighthouse": "^6.1.0",
     "lighthouse-logger": "^1.2.0",
     "puppeteer": "^4.0.1"
